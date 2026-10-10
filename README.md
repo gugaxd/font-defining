@@ -5,8 +5,8 @@ da peça, da distância de leitura e da quantidade de texto que cada nível carr
 CSS, JSON, SVG e PNG. Tudo roda no navegador.
 
 Faz parte da família do [gri.d.maker](https://github.com/gugaxd/gri.d.maker) e abre a partir
-do hub `design tools`. O botão de grade no cabeçalho volta para o menu (`HUB_URL` no topo de
-`src/FontSizer.jsx`).
+do **the hub**. O botão de grade no cabeçalho volta para o menu (`HUB_URL` no topo de
+`src/FontDefining.jsx`).
 
 ## Como o tamanho sai
 
